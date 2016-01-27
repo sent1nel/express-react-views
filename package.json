@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "js-beautify": "^1.5.10",
-    "babel": "^5.8.23",
+    "babel": "^6.3.26",
     "object-assign": "^4.0.1"
   },
   "devDependencies": {
