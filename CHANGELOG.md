@@ -1,3 +1,7 @@
+# v0.9.1 (2016-01-27)
+
+* Update Babel to 6.3.26
+
 # v0.9.0 (2015-10-08)
 
 * Update to React v0.14, drop support for React v0.12-0.13
